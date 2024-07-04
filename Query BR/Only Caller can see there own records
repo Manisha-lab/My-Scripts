@@ -2,7 +2,7 @@ Before Query BR on Incident table.
 
 Condition :- gs.getSession().isInteractive()
 
-Script : - 
+Script : -
 
 restrictRecords();
 
